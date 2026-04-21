@@ -123,23 +123,24 @@ flutter run
 
 ## 🧩 Project Structure
 
-
+```plaintext
 lib/
 ├── screens/
-│ ├── login_screen.dart
-│ ├── register_screen.dart
-│ ├── game_screen.dart
-│ ├── scoreboard_screen.dart
-│ ├── profile_screen.dart
+│   ├── login_screen.dart
+│   ├── register_screen.dart
+│   ├── game_screen.dart
+│   ├── scoreboard_screen.dart
+│   ├── profile_screen.dart
 │
 ├── services/
-│ ├── wordnik_service.dart
+│   ├── wordnik_service.dart
 │
 ├── utils/
-│ ├── game.dart
+│   ├── game.dart
 │
 ├── ui/
-│ ├── widgets/
+│   ├── widgets/
+```
 
 
 ---
