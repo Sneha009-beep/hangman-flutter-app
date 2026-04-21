@@ -114,7 +114,7 @@ flutter run
 <p align="center">
   <img src="https://github.com/user-attachments/assets/44799458-c245-4ebc-8baa-cd45bee40a23" width="180"/>
   <img src="https://github.com/user-attachments/assets/642e80f6-5115-4104-ad17-279bbc732b92" width="180"/>
-  <img src="https://github.com/user-attachments/assets/226e4d87-4af2-4c82-8d82-9b3335656bd5" width="200"/>
+  <img src="https://github.com/user-attachments/assets/dcc2e30c-071e-44e9-b31b-2055d1dc8788" width="200"/>
 </p>
 
 
