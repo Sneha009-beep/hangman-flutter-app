@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239874254338",
+    "project_id": "hangman-new-a314e",
+    "storage_bucket": "hangman-new-a314e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239874254338:android:454f2de12ffb93a8e2291b",
+        "android_client_info": {
+          "package_name": "com.example.hangman_final_appln"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzgvAEfs4FW4s3cXXf6it44e3lksDpsx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
