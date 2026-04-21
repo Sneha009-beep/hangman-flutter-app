@@ -103,21 +103,17 @@ flutter run
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/85af149e-ef5f-40d9-a147-aa90c6999ddb" width="180"/>
   <img src="https://github.com/user-attachments/assets/634ab3bf-9590-488b-a7d4-e8aed5d130ab" width="180"/>
   <img src="https://github.com/user-attachments/assets/9803d266-0cf2-44f6-9d39-ad6145c0092f" width="180"/>
+  <img src="https://github.com/user-attachments/assets/a222e961-20f1-4f8f-94dc-bd676bc169ed" width="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a222e961-20f1-4f8f-94dc-bd676bc169ed" width="180"/>
   <img src="https://github.com/user-attachments/assets/acd91314-d379-4bbc-90fe-55e33347c96f" width="180"/>
   <img src="https://github.com/user-attachments/assets/f1489b5f-5b53-431a-a64a-a6baf9532f29" width="180"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/226e4d87-4af2-4c82-8d82-9b3335656bd5" width="200"/>
 </p>
 
