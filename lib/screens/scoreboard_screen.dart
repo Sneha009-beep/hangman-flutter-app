@@ -153,7 +153,7 @@ class ScoreboardScreen extends StatelessWidget {
                           ),
                           child: ListTile(
                             leading: CircleAvatar(
-                              backgroundColor: Colors.white38,
+                              backgroundColor: Colors.white,
                               child: Text(
                                 "#${index + 4}",
                                 style: const TextStyle(
