@@ -126,20 +126,31 @@ flutter run
 ```plaintext
 lib/
 ├── screens/
-│   ├── login_screen.dart
-│   ├── register_screen.dart
+│   ├── auth_wrapper.dart
+│   ├── difficulty_screen.dart
 │   ├── game_screen.dart
-│   ├── scoreboard_screen.dart
+│   ├── home_screen.dart
+│   ├── login_screen.dart
 │   ├── profile_screen.dart
+│   ├── register_screen.dart
+│   ├── scoreboard_screen.dart
 │
 ├── services/
+│   ├── dialog_helper.dart
 │   ├── wordnik_service.dart
+│
+├── ui/
+│   ├── widget/
+│   │   ├── figure.dart
+│   │   ├── glass_card.dart
+│   │   ├── letter.dart
+│   ├── colors.dart
 │
 ├── utils/
 │   ├── game.dart
 │
-├── ui/
-│   ├── widgets/
+├── main.dart
+├── welcomepg.dart
 ```
 
 
